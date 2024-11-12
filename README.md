@@ -44,6 +44,10 @@
       <br>C++
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
+      <br>VScode
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
     </td>
@@ -66,10 +70,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
       <br>postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
-      <br>VScode
     </td>
   </tr>
   <tr>
@@ -102,13 +102,12 @@
       <br>JEST
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kali" alt="icon" width="55" height="55" />
-      <br>Kali
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
       <br>Git
     </td>
-    
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kali" alt="icon" width="55" height="55" />
+      <br>Kali
+    </td>
   </tr>
 </table>
