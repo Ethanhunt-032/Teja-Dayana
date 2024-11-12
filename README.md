@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/teja-dayana-a015a921a/">Shivansh</a><img height="40" alt="Teja Dayana" src="https://github.com/Ethanhunt-032/Teja-Dayana/blob/main/giphy.gif"/> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/teja-dayana-a015a921a/">Teja Dayana</a><img height="40" alt="Teja Dayana" src="https://github.com/Ethanhunt-032/Teja-Dayana/blob/main/giphy.gif"/> </h1>
 
 
 <!--- Adding Header Elements -->
