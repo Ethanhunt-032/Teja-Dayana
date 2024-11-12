@@ -5,7 +5,6 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-
   <a href="https://www.linkedin.com/in/teja-dayana-a015a921a/">LinkedIn</a> - 
   <a href="https://www.instagram.com/tejadayana9/">Instagram</a> -
   <a href="https://codeforces.com/profile/Ethanhunt032">CodeForces</a> -
